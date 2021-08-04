@@ -6,3 +6,11 @@
 [![codecov](https://codecov.io/gh/tswsxk/Baize/branch/master/graph/badge.svg)](https://codecov.io/gh/tswsxk/Baize)
 
 Beyond Artifitial Intelligence modelZoo and boilerplatE
+
+
+## Installation
+
+Install from pypi:
+```
+pip install PyBaize
+```
