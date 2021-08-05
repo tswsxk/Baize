@@ -1,0 +1,3 @@
+v0.0.2:
+    1. Add light_module for both torch and mxnet
+    2. add modelzoo for mxnet, including attention, highway, pairwise loss and TextCNN and TransE
