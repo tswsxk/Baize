@@ -1,3 +1,15 @@
+v0.0.4:
+    1. utils: add io relevant including json_load, as_out_io, as_io
+    2. utils: add path relevant including path_append
+    3. torch: add rnn layer: get_state_shape, get_init_state
+    4. torch: add erase-add gate
+    5. torch: add functional.utils including tensor2list, batch_select
+    6. torch: add functional.seq including pick, length2mask, get_sequence_mask, mask_sequence
+    7. torch: add functional.rnn including get_rnn_state_shape, get_rnn_init_state
+    8. add analysis relevant: get_best
+    9. add get_epoch_params_filepath
+    10. add Timer, as_list, config_logging, iterwrap
+
 v0.0.3:
     1. add configuration parser
     2. add save_params and load_net for torch and mxnet
