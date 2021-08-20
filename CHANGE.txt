@@ -9,6 +9,7 @@ v0.0.4:
     8. add analysis relevant: get_best
     9. add get_epoch_params_filepath
     10. add Timer, as_list, config_logging, iterwrap
+    11. update dependencies: longling
 
 v0.0.3:
     1. add configuration parser
