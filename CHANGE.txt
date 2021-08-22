@@ -1,3 +1,7 @@
+v0.0.5:
+    1. mxnet: add split_and_load
+    2. add bucketing
+
 v0.0.4:
     1. utils: add io relevant including json_load, as_out_io, as_io
     2. utils: add path relevant including path_append
