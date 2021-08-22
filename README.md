@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" src="docs/_static/Baize.png">
+  <img width="500" src="docs/_static/Baize.png">
 </p>
 
 # Baize
