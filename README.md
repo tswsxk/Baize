@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" src="docs/_static/Baize.png">
+</p>
+
 # Baize
 
 [![VERSION](https://img.shields.io/pypi/pyversions/PyBaize)](https://pypi.python.org/pypi/PyBaize)
