@@ -35,7 +35,7 @@ except Exception as e:
 
 setup(
     name='PyBaize',
-    version='0.0.5',
+    version='0.0.6',
     extras_require={
         'test': test_deps + mxnet_requires + ml_pytorch_deps,
         'mxnet': mxnet_requires,
