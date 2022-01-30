@@ -1,3 +1,6 @@
+v0.0.7:
+    1. Bugfix: update dependency version of `longling` to solve the problem using torch light_module with cuda
+
 v0.0.6:
     1. Bugfix: update dependency version of `longling`
 
