@@ -44,7 +44,7 @@ setup(
     },
     packages=find_packages(),
     install_requires=[
-        'longling[ml]>=1.3.34',
+        'longling[ml]>=1.3.35',
         'nni>=1.8'
     ],  # And any other dependencies foo needs
     entry_points={
