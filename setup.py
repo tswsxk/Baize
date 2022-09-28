@@ -35,7 +35,7 @@ except Exception as e:
 
 setup(
     name='PyBaize',
-    version='0.0.7',
+    version='0.0.8',
     extras_require={
         'test': test_deps + mxnet_requires + ml_pytorch_deps,
         'mxnet': mxnet_requires,
@@ -44,7 +44,7 @@ setup(
     },
     packages=find_packages(),
     install_requires=[
-        'longling[ml]>=1.3.35',
+        'longling[ml]>=1.3.36',
         'nni>=1.8'
     ],  # And any other dependencies foo needs
     entry_points={
